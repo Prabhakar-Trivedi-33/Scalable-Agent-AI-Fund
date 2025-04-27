@@ -1,0 +1,10 @@
+# OpenAI Configuration
+OPENAI_API_KEY=your-openai-api-key-here
+
+# API Configuration
+API_HOST=0.0.0.0
+API_PORT=8000
+DEBUG=True
+
+# MF API Configuration
+MFAPI_BASE_URL=https://api.mfapi.in

@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.25.0
+pydantic==2.5.2
+httpx==0.25.2
+python-dotenv==1.0.0
+pytest==7.4.3
+pytest-asyncio==0.23.2
+langchain==0.1.4
+langchain-openai==0.0.5
+langgraph==0.1.9
+tenacity==8.2.3
+python-multipart==0.0.6
